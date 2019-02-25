@@ -1,6 +1,6 @@
 {
   "User": [
     { "id": 1, "Address": "Post 1" },
-    { "id": 2, "Address": "Post 2" },
+    { "id": 2, "Address": "Post 2" }
   ]
 }
